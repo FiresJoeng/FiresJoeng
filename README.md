@@ -7,5 +7,5 @@
 **Team Webside**: TeamLanHy.Fun
 
 [![Fires' GitHub Stats](https://github-readme-stats.vercel.app/api?username=FiresJoeng)](https://github.com/FiresJoeng/github-readme-stats)
-
 ![Fires' GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FiresJoeng)
+![Fires' Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=FiresJoeng)
