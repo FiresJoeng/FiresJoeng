@@ -5,3 +5,5 @@
 **Living in**: Canton  
 **Contact me**: FiresJoeng@gmail.com  
 **Team Webside**: TeamLanHy.Fun
+
+[![Fires's GitHub stats](https://github-readme-stats.vercel.app/api?username=FiresJoeng)](https://github.com/FiresJoeng/github-readme-stats)
