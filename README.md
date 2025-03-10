@@ -10,5 +10,6 @@
 <div align="center">
   
 ![Fires' GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FiresJoeng)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
