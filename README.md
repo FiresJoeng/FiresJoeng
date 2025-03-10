@@ -8,5 +8,7 @@
 
 ---
 <div align="center">
+  
 ![Fires' GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FiresJoeng)
+
 </div>
