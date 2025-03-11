@@ -1,16 +1,11 @@
 ## About
 
 **Name**: Fires Joeng  
-
 **Ages**: 21(Born in 2003)  
-
 **Living in**: Canton  
-
 **Contact me**: FiresJoeng@gmail.com  
-
-**Team Webside**: [TeamLanHy.Fun](http://TeamLanHy.Fun)
-
-**Coding Time**_(SINCE MAR 7 2025)_: [![wakatime](https://wakatime.com/badge/user/55f19e0b-1919-4212-a045-db07aa73f727.svg)](https://wakatime.com/@FiresJoeng)
+**Team Webside**: [TeamLanHy.Fun](http://TeamLanHy.Fun)  
+**Coding Time** _(SINCE MAR 7 2025)_: [![wakatime](https://wakatime.com/badge/user/55f19e0b-1919-4212-a045-db07aa73f727.svg)](https://wakatime.com/@FiresJoeng)  
 
 ---
 <div align="center">
