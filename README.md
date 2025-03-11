@@ -10,7 +10,7 @@
 
 **Team Webside**: [TeamLanHy.Fun](http://TeamLanHy.Fun)
 
-**Coding Time**: [![wakatime](https://wakatime.com/badge/user/55f19e0b-1919-4212-a045-db07aa73f727.svg)](https://wakatime.com/@55f19e0b-1919-4212-a045-db07aa73f727)
+**Coding Time**: [![wakatime](https://wakatime.com/badge/user/55f19e0b-1919-4212-a045-db07aa73f727.svg)](https://wakatime.com/@FiresJoeng)
 
 ---
 <div align="center">
