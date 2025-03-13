@@ -12,4 +12,6 @@
 
 ![Fires' GitHub Stats](https://github-readme-stats-git-master-fires-projects-94a8f1a6.vercel.app/api?username=FiresJoeng&include_all_commits=true)
 
+![Fires' GitHub Visitors](https://img.shields.io/badge/dynamic/json?label=Visitors&query=value&url=https://api.countapi.xyz/hit/FiresJoeng/FiresJoeng&color=blue)
+
 </div>
