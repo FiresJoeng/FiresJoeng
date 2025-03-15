@@ -16,6 +16,6 @@
 
 [![Fires' GitHub Stats](https://github-readme-stats.vercel.app/api?username=FiresJoeng&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/FiresJoeng)
 
-[![WakaTime Language Detail](https://github-readme-stats.vercel.app/api/wakatime?username=FiresJoeng&bg_color=30,C8E6C9,FFF9A0&title_color=000&text_color=8fa6c0)](https://wakatime.com/@FiresJoeng)
+[![WakaTime Language Detail](https://github-readme-stats.vercel.app/api/wakatime?username=FiresJoeng&bg_color=30,C8E6C9,FFF9A9&title_color=f80&text_color=880)](https://wakatime.com/@FiresJoeng)
 
 </div>
