@@ -1,5 +1,7 @@
 # 🔥 About me
+
 <div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Name:+Fires+Joeng;Age:+22+(Born+in+2003);Living+In:+Canton;Website:+teamlanhy.fun" alt="About Me" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=FiresJoeng&color=green)
