@@ -11,17 +11,15 @@
 
 [![Fires' GitHub Stats](https://github-readme-stats.vercel.app/api?username=FiresJoeng&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&card_width=500)](https://github.com/FiresJoeng)
 
-<a href="https://github.com/FiresJoeng">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin: 0 4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="margin: 0 4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin: 0 4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin: 0 4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40" style="margin: 0 4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" style="margin: 0 4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" style="margin: 0 4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="margin: 0 4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" style="margin: 0 4px">
-<img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40" height="40" style="margin: 0 4px">
-</a>
+<a href="https://github.com/FiresJoeng"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"></a>
+<a href="https://github.com/FiresJoeng"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"></a>
+<a href="https://github.com/FiresJoeng"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"></a>
+<a href="https://github.com/FiresJoeng"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"></a>
+<a href="https://github.com/FiresJoeng"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40"></a>
+<a href="https://github.com/FiresJoeng"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"></a>
+<a href="https://github.com/FiresJoeng"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"></a>
+<a href="https://github.com/FiresJoeng"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"></a>
+<a href="https://github.com/FiresJoeng"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40"></a>
+<a href="https://github.com/FiresJoeng"><img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40" height="40">
 
 </div>
