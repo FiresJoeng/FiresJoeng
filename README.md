@@ -14,14 +14,9 @@
 <h3>⚔️ 𝑰 𝒘𝒊𝒆𝒍𝒅 𝒎𝒚 𝒃𝒍𝒂𝒅𝒆 𝒐𝒇 𝒍𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 𝒍𝒊𝒌𝒆 𝒂𝒏 𝒊𝒏𝒅𝒐𝒎𝒊𝒕𝒂𝒃𝒍𝒆 𝒘𝒂𝒓𝒓𝒊𝒐𝒓! 💪 </h3>
 
 <a href="https://github.com/FiresJoeng"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"></a>
+<a href="https://github.com/FiresJoeng"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"></a>
 <a href="https://github.com/FiresJoeng"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"></a>
 <a href="https://github.com/FiresJoeng"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"></a>
 <a href="https://github.com/FiresJoeng"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"></a>
-<a href="https://github.com/FiresJoeng"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40"></a>
-<a href="https://github.com/FiresJoeng"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"></a>
-<a href="https://github.com/FiresJoeng"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"></a>
-<a href="https://github.com/FiresJoeng"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"></a>
-<a href="https://github.com/FiresJoeng"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40"></a>
-<a href="https://github.com/FiresJoeng"><img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40" height="40">
 
 </div>
