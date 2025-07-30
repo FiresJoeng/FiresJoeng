@@ -9,7 +9,7 @@
 [![X (Twitter)](https://img.shields.io/badge/X-@FiresJoeng-black)](https://x.com/FiresJoeng)
 [![YouTube](https://img.shields.io/badge/YouTube-@FiresJoeng-red)](https://youtube.com/@FiresJoeng)
 
-[![Fires' GitHub Stats](https://github-readme-stats.vercel.app/api?username=FiresJoeng&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&card_width=500)](https://github.com/FiresJoeng)
+[![Fires' GitHub Stats](https://github-readme-stats.vercel.app/api?username=FiresJoeng&card_width=500)](https://github.com/FiresJoeng)
 
 <h3>⚔️ 𝑰 𝒘𝒊𝒆𝒍𝒅 𝒎𝒚 𝒃𝒍𝒂𝒅𝒆 𝒐𝒇 𝒍𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 𝒍𝒊𝒌𝒆 𝒂𝒏 𝒊𝒏𝒅𝒐𝒎𝒊𝒕𝒂𝒃𝒍𝒆 𝒘𝒂𝒓𝒓𝒊𝒐𝒓! 💪 </h3>
 
