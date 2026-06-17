@@ -4,7 +4,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=FiresJoeng&color=green)
 [![wakatime](https://wakatime.com/badge/user/55f19e0b-1919-4212-a045-db07aa73f727.svg)](https://wakatime.com/@FiresJoeng)
-[![X (Twitter)](https://img.shields.io/badge/X-@frsQuant-black)](https://x.com/frsQuant)
+[![X (Twitter)](https://img.shields.io/badge/X-@frsQuant-orange)](https://x.com/frsQuant)
 [![YouTube](https://img.shields.io/badge/YouTube-@FiresJoeng-red)](https://youtube.com/@FiresJoeng)
 
 [![Fires' GitHub Stats](https://github-readme-stats.vercel.app/api?username=FiresJoeng&card_width=500&theme=buefy&show_icons=true)](https://github.com/FiresJoeng)
